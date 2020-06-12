@@ -8,6 +8,8 @@
 
 import SwiftUI
 
+let githubURL = "https://github.com/fengjutian/SwiftUI-T"
+
 struct TextPage: View {
     
     var body: some View {
@@ -20,7 +22,21 @@ struct TextPage: View {
                 .fontWeight(.medium)
                 .italic()
                 .shadow(color: .black, radius: 1, x: 0, y: 2)
+            
+            Text(githubURL)
+                .underline(true, color: Color.gray)
+                .font(.system(size: 16, design: .serif))
+//                .tapAction {
+//                    print(githubURL)
+//                }
+            
+            HStack {
+                Text("text")
+                Text("text").bold()
+                
+            }
         }
+        
     }
 }
 

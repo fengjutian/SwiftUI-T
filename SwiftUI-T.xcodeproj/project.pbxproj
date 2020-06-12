@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2FB8B495249278BC00ED780C /* Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB8B494249278BC00ED780C /* Text.swift */; };
+		2FB8B4972493A94400ED780C /* TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB8B4962493A94400ED780C /* TextField.swift */; };
 		2FE3589624924B440033556E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE3589524924B440033556E /* AppDelegate.swift */; };
 		2FE3589824924B440033556E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE3589724924B440033556E /* SceneDelegate.swift */; };
 		2FE3589A24924B440033556E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE3589924924B440033556E /* ContentView.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		2FB8B494249278BC00ED780C /* Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text.swift; sourceTree = "<group>"; };
+		2FB8B4962493A94400ED780C /* TextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextField.swift; sourceTree = "<group>"; };
 		2FE3589224924B440033556E /* SwiftUI-T.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-T.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FE3589524924B440033556E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FE3589724924B440033556E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				2FE3589D24924B470033556E /* Preview Content */,
 				2FE358B724925EF90033556E /* Landmark.swift */,
 				2FB8B494249278BC00ED780C /* Text.swift */,
+				2FB8B4962493A94400ED780C /* TextField.swift */,
 			);
 			path = "SwiftUI-T";
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				2FE3589624924B440033556E /* AppDelegate.swift in Sources */,
 				2FB8B495249278BC00ED780C /* Text.swift in Sources */,
 				2FE3589824924B440033556E /* SceneDelegate.swift in Sources */,
+				2FB8B4972493A94400ED780C /* TextField.swift in Sources */,
 				2FE3589A24924B440033556E /* ContentView.swift in Sources */,
 				2FE358B824925EF90033556E /* Landmark.swift in Sources */,
 			);
