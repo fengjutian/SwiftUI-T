@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F531EA62494F0C600C1E1E0 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F531EA52494F0C600C1E1E0 /* Image.swift */; };
+		2F531EA82495ECD300C1E1E0 /* WebImagePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F531EA72495ECD300C1E1E0 /* WebImagePage.swift */; };
 		2FB8B495249278BC00ED780C /* Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB8B494249278BC00ED780C /* Text.swift */; };
 		2FB8B4972493A94400ED780C /* TextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB8B4962493A94400ED780C /* TextField.swift */; };
 		2FE3589624924B440033556E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE3589524924B440033556E /* AppDelegate.swift */; };
@@ -30,6 +32,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F531EA52494F0C600C1E1E0 /* Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
+		2F531EA72495ECD300C1E1E0 /* WebImagePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebImagePage.swift; sourceTree = "<group>"; };
 		2FB8B494249278BC00ED780C /* Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text.swift; sourceTree = "<group>"; };
 		2FB8B4962493A94400ED780C /* TextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextField.swift; sourceTree = "<group>"; };
 		2FE3589224924B440033556E /* SwiftUI-T.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-T.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,6 +99,8 @@
 				2FE358B724925EF90033556E /* Landmark.swift */,
 				2FB8B494249278BC00ED780C /* Text.swift */,
 				2FB8B4962493A94400ED780C /* TextField.swift */,
+				2F531EA52494F0C600C1E1E0 /* Image.swift */,
+				2F531EA72495ECD300C1E1E0 /* WebImagePage.swift */,
 			);
 			path = "SwiftUI-T";
 			sourceTree = "<group>";
@@ -217,8 +223,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F531EA62494F0C600C1E1E0 /* Image.swift in Sources */,
 				2FE3589624924B440033556E /* AppDelegate.swift in Sources */,
 				2FB8B495249278BC00ED780C /* Text.swift in Sources */,
+				2F531EA82495ECD300C1E1E0 /* WebImagePage.swift in Sources */,
 				2FE3589824924B440033556E /* SceneDelegate.swift in Sources */,
 				2FB8B4972493A94400ED780C /* TextField.swift in Sources */,
 				2FE3589A24924B440033556E /* ContentView.swift in Sources */,
